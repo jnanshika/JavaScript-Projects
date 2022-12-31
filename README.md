@@ -11,3 +11,6 @@ A basic layout of how reviews would look like. And also you can move to next and
 
 #### **Navbar**
 Navbar with links and social media icons. Toggle functionality if the size of the screen is small.
+
+#### **JS Clock**
+Analog Clock
